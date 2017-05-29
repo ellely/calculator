@@ -1,0 +1,15 @@
+{
+    "name": "ellely/php-composer",
+    "authors": [
+        {
+            "name": "pimonrat",
+            "email": "themoo868@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+          "ellely\\Calculator\\" : "src/"
+        }
+    }
+}
